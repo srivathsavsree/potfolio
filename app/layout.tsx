@@ -4,7 +4,7 @@ import './globals.css'
 export const metadata: Metadata = {
   title: 'srivathsasv potfolio',
   description: 'Professional portfolio of srivathsasv',
-  generator: 'v0.dev',
+  generator: 'srivathsav potfolio',
 }
 
 export default function RootLayout({
